@@ -11,6 +11,13 @@ to summarize articles whether they are PDFs or URL links.
 - Summarizations are customizable, there are 3 pre-defined prompt configurations for the summarization operation.
 - Local LLMs or API keys to LLMs can be used.
 
+## Example Usage
+- In the following example, a random arXiv.org article is chosen and given to the program, the summary of the article is shown below image. Summary length of medium and summary format of structured is selected.
+
+
+![example-output.png](Images%20of%20Project/example-output.png)
+
+
 ## Installation
 
 ### Prerequisites
