@@ -392,7 +392,7 @@ def main():
     print(result['summary'])
     print(f"{'-' * 50}")
     print(f"Source: {result['source']}")
-    print("\n")
+
 
 
 if __name__ == "__main__":
