@@ -56,3 +56,4 @@ Congratulations you have everything needed set up and ready to use it.
 ### Future Work
 A more robust web & app version is under consideration to be implemented.
 Any contribution, code format change and suggestion is welcomed.
+For summarization, NLP techniques from scratch is being developed instead of a usage of an LLM.
