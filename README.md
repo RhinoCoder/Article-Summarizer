@@ -38,7 +38,7 @@ to summarize articles whether they are PDFs or URL links.
 - If you are going to use an API version, update the .env file accordingly.
 
 ### Usage
--From terminal in the project directory, run
+- From terminal in the project directory, run
     python app.py
 Then, open your web browser and go to localhost:5000,
 Congratulations you have everything needed set up and ready to use it.
